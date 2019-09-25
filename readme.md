@@ -147,8 +147,8 @@
 
 <h2 align="center">其他说明</h2>
 
-- 分组说明：每组不超过4个人，自由组队，选出组长。
-- 选题说明：请尽快告知助教你的分组，以及你的选题，每个题目不超过3个小组，先到先得！
+- 分组说明：每组不超过5个人，自由组队，选出组长。
+- 选题说明：请组长尽快在群里说明分组情况，以及选题，每个模块不超过3个小组，先到先得！
 - 代码规范:
   1. 全部代码基于Python3.6实现
   2. 代码遵守[Google代码规范](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules/)
