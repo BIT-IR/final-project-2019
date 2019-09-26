@@ -169,6 +169,73 @@
 
 **GOOGLE IS ALL YOU NEED**
 
+<h2 align="center">分组汇总</h2>
+
+<table>
+    <tr>
+        <td align="center"><b>模块</b></td>
+        <td align="center"><b>分组</b></td>
+    </tr>
+    <tr>
+      <td rowspan="3" align="center">慕课网站爬虫模块</td>
+      <td>王佳佳，汪舰，王维，王浚宇</td>
+    </tr>
+    <tr>
+      <td>李东，李世林，谢斌辉，彭成</td>
+    </tr>
+    <tr>
+      <td>唐汉霖，毛宏力，姜程镨，邵靖斐，赵菊文</td>
+    </tr>
+    <tr>
+        <td rowspan="3" align="center">视频字幕提取与翻译模块</td>
+        <td>徐恒达，郭佳楠，柏宇，林书阳，辛成鑫</td>
+    </tr>
+    <tr>
+        <td>陈牧乔，付乐萌，徐逍君，孙今达</td>
+    </tr>
+    <tr>
+        <td>赖一多，于扬，郭振宇，王艳平，李丽丽</td>
+    </tr>
+    <tr>
+        <td rowspan="3" align="center">文本检索文本模块</td>
+        <td>张思嘉，程浩东，李敏琴，殷昕，朱乐</td>
+    </tr>
+    <tr>
+        <td>陈秀琦，钟子岳，及朋飞，马思怡</td>
+    </tr>
+    <tr>
+        <td>张辰，曹健，展佳傲，杜建成，陆旭阳</td>
+    </tr>
+    <tr>
+        <td rowspan="2" align="center">文本检索视频模块</td>
+        <td>刘曦，焦青青，吴楠楠，辛永顺</td>
+    </tr>
+    <tr>
+        <td>何龙，郑俊康，佘宇峰，薛晓军，周泳宇</td>
+    </tr>
+    <tr>
+        <td rowspan="3" align="center">文本检索PPT模块</td>
+        <td>王蔚然，冯姝榕，黄云飞，王元杰，赵培雯</td>
+    </tr>
+    <tr>
+        <td>李佳钰，徐兰天，王文琪，刘龙耀</td>
+    </tr>
+    <tr>
+        <td>任泽槟，陈立围，王海，费伟伦</td>
+    </tr>
+    <tr>
+        <td rowspan="1" align="center">图片检索视频模块</td>
+        <td>李彤，东辉，邵江逸，秦肖睿，宫佳豪</td>
+    </tr>
+    <tr>
+        <td rowspan="2" align="center">图片检索PPT模块</td>
+        <td>耿坤男，吴昊，苏静宇，孙佩霞</td>
+    </tr>
+    <tr>
+        <td>戴子彭，赵一诺，高硕，葛晶，苏丽敏</td>
+    </tr>
+</table>
+
 
 <h2 align="center">FAQs</h2>
 
