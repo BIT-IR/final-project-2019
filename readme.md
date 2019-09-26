@@ -185,7 +185,7 @@
       <td>李东，李世林，谢斌辉，彭成</td>
     </tr>
     <tr>
-      <td>唐汉霖，毛洪力，姜程镨，邵靖斐，赵菊文</td>
+      <td>唐汉霖，毛洪力，邵靖斐，赵菊文</td>
     </tr>
     <tr>
         <td rowspan="3" align="center">视频字幕提取与翻译模块</td>
@@ -208,10 +208,7 @@
         <td>张辰，曹健，展佳傲，杜建成，陆旭阳</td>
     </tr>
     <tr>
-        <td rowspan="2" align="center">文本检索视频模块</td>
-        <td>刘曦，焦青青，吴楠楠，辛永顺</td>
-    </tr>
-    <tr>
+        <td rowspan="1" align="center">文本检索视频模块</td>
         <td>何龙，郑俊康，佘宇峰，薛晓军，周泳宇</td>
     </tr>
     <tr>
@@ -226,14 +223,17 @@
     </tr>
     <tr>
         <td rowspan="1" align="center">图片检索视频模块</td>
-        <td>李彤，东辉，邵江逸，秦肖睿，宫佳豪</td>
+        <td>李彤，东辉，邵江逸，宫佳豪</td>
     </tr>
     <tr>
-        <td rowspan="2" align="center">图片检索PPT模块</td>
+        <td rowspan="3" align="center">图片检索PPT模块</td>
         <td>耿坤男，吴昊，苏静宇，孙佩霞</td>
     </tr>
     <tr>
         <td>戴子彭，赵一诺，高硕，葛晶，苏丽敏</td>
+    </tr>
+    <tr>
+        <td>刘曦，焦青青，吴楠楠，辛永顺</td>
     </tr>
 </table>
 
