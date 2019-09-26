@@ -154,7 +154,7 @@
   2. 代码遵守[Google代码规范](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules/)
   3. 代码需要有规范的注释，遵循[注释规范](https://python-guide.gitbooks.io/python-style-guide/content/style-guide/comment_and_docs.html)
   4. 系统需要在Ubuntu 16.04环境下可以运行，文档需要注明系统的依赖
-- **作业截止时间: 2019.11.10；作业提交时候需要拷贝代码和文档给助教，并进行演示。**
+- **作业截止时间: 2019.11.10；作业提交时候需要拷贝代码和文档，并进行演示。**
 
 <h2 align="center">参考内容</h2>
 
