@@ -171,7 +171,7 @@
 
 <h2 align="center">分组汇总</h2>
 
-<table>
+<table align="center">
     <tr>
         <td align="center"><b>模块</b></td>
         <td align="center"><b>分组</b></td>
