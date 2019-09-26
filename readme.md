@@ -1,4 +1,4 @@
-<h1 align="center">Cross-Model-Search-Engine</h1>
+<h1 align="center">Cross-Modal-Search-Engine</h1>
 <p align="center">从0到1，构建跨模态搜索引擎！</p>
 
 <p align="center">
