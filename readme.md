@@ -223,7 +223,7 @@
     </tr>
     <tr>
         <td rowspan="1" align="center">图片检索视频模块</td>
-        <td>李彤，东辉，邵江逸，宫佳豪</td>
+        <td>李彤，刘东辉，邵江逸，宫佳豪</td>
     </tr>
     <tr>
         <td rowspan="3" align="center">图片检索PPT模块</td>
