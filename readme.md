@@ -154,7 +154,7 @@
   2. 代码遵守[Google代码规范](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/python_style_rules/)
   3. 代码需要有规范的注释，遵循[注释规范](https://python-guide.gitbooks.io/python-style-guide/content/style-guide/comment_and_docs.html)
   4. 系统需要在Ubuntu 16.04环境下可以运行，文档需要注明系统的依赖
-- **作业截止时间: 2019.11.10；作业提交时候需要拷贝代码和文档，并进行演示。**
+- **作业提交时间: 2019.11.17（周日），具体各组提交时间表见下面的表格。作业提交时候需要拷贝代码和文档，并进行演示。**
 
 <h2 align="center">参考内容</h2>
 
@@ -176,64 +176,82 @@
     <tr>
         <td align="center"><b>模块</b></td>
         <td align="center"><b>分组</b></td>
+        <td align="center"><b>提交作业时间段</b></td>
     </tr>
     <tr>
       <td rowspan="3" align="center">慕课网站爬虫模块</td>
       <td>王佳佳，汪舰，王维，王浚宇，于明飞</td>
+      <td>13:00 - 13:20</td>
     </tr>
     <tr>
       <td>李东，李世林，谢斌辉，彭成</td>
+      <td>13:20 - 13:40</td>
     </tr>
     <tr>
       <td>唐汉霖，毛洪力，邵靖斐，赵菊文</td>
+      <td>13:40 - 14:00</td>
     </tr>
     <tr>
         <td rowspan="3" align="center">视频字幕提取与翻译模块</td>
         <td>徐恒达，郭佳楠，柏宇，林书阳，辛成鑫</td>
+        <td>14:00 - 14:20</td>
     </tr>
     <tr>
         <td>陈牧乔，付乐萌，徐逍君，孙今达</td>
+        <td>14:20 - 14:40</td>
     </tr>
     <tr>
         <td>赖一多，于杨，郭振宇，王艳平，李丽丽</td>
+        <td>14:40 - 15:00</td>
     </tr>
     <tr>
         <td rowspan="3" align="center">文本检索文本模块</td>
         <td>张思嘉，程浩东，李敏琴，殷昕，朱乐</td>
+        <td>15:00 - 15:20</td>
     </tr>
     <tr>
         <td>陈秀琦，钟子岳，及朋飞，马思怡</td>
+        <td>15:20 - 15:40</td>
     </tr>
     <tr>
         <td>张辰，曹健，展佳傲，杜建成，陆旭阳</td>
+        <td>15:40 - 16:00</td>
     </tr>
     <tr>
         <td rowspan="1" align="center">文本检索视频模块</td>
         <td>何龙，郑俊康，佘宇峰，薛晓军，周泳宇</td>
+        <td>16:00 - 16:20</td>
     </tr>
     <tr>
         <td rowspan="3" align="center">文本检索PPT模块</td>
         <td>王蔚然，冯姝榕，黄云飞，王元杰，赵培雯</td>
+        <td>16:20 - 16:40</td>
     </tr>
     <tr>
         <td>李佳钰，徐兰天，王文琪，刘龙耀，贺韵</td>
+        <td>16:40 - 17:00</td>
     </tr>
     <tr>
         <td>任泽槟，陈立围，王海，费伟伦</td>
+        <td>17:00 - 17:20</td>
     </tr>
     <tr>
         <td rowspan="1" align="center">图片检索视频模块</td>
         <td>李彤，刘东辉，邵江逸，宫佳豪</td>
+        <td>17:20 - 17:40</td>
     </tr>
     <tr>
         <td rowspan="3" align="center">图片检索PPT模块</td>
         <td>耿坤男，吴昊，苏静宇，孙佩霞</td>
+        <td>17:40 - 18:00</td>
     </tr>
     <tr>
         <td>戴子彭，赵一诺，高硕，葛晶，苏丽敏</td>
+        <td>18:00 - 18:20</td>
     </tr>
     <tr>
         <td>刘曦，焦青青，吴楠楠，辛永顺</td>
+        <td>18:20 - 18:40</td>
     </tr>
 </table>
 
